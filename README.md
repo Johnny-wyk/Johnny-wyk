@@ -4,9 +4,9 @@
 
 <hr/>
 
-- 🔭  I’m a Backend developer,making some interesting 😺websites😺 is my passion of life.Whenever i see my code come to life,it gives me a sense of satisfaction.
+- 🔭  I’m a data engineer.Whenever i see my code come to life,it gives me a sense of satisfaction.
 
-- 🌱  I speak 2 languages:Chinese(native),English(IELTS 6.5)
+- 🌱  I speak 3 languages:Chinese(native),English(IELTS 6.5),Cantonese
 
 - 📫  You can write email to <525860438@qq.com> and contact with me;
 
@@ -14,15 +14,12 @@
 <hr/>
 
 - ☕ Java,Python
-- 🦣 JavaScript,HTML,CSS
-- 🐇 Vue
-- 🌿 SpringBoot,SpringCloud
 
 <hr/>
 
 ### What am I doing with my Life🐾
 
-- I'm trying to learn more knowledge about JAVA,trying to become a good programmer in the future and get a high salary.
+- I'm trying to learn more knowledge about big data and artificial intelligence,trying to become a good programmer in the future and get a high salary.
 - I'm learning new things and experience the beauty in my life which I prefer to write.
 - going to the gym when I feel tired of typing the code.
 
